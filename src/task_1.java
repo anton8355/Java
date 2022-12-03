@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Random;
 
-public class Main {
+public class task_1 {
     public static int Factorial(int num) //Метод для нахождения факториала числа
     {
         String str = String.valueOf(num);
